@@ -1,0 +1,5 @@
+# Use the block size gridftp uses
+BS=131072
+
+PREFIX=
+READDIR=
